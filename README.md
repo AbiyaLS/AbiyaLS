@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Abiya L. S., a Flutter developer passionate about building responsive, high-performance, and SEO-optimized web and mobile applications. I love solving problems and continuously learning to improve my skills.<br><br>💻 Experienced in Flutter & Firebase<br>📱 Building cross-platform mobile apps<br>🚀 Passionate about UI/UX and animations<br>🌱 Currently exploring State Management & Performance Optimization<br>📌 Check out my projects and feel free to connect!<br><br>
+Hi there! 👋<br>I'm Abiya L. S., a Flutter MERN developer passionate about building responsive, high-performance, and SEO-optimized web and mobile applications. I love solving problems and continuously learning to improve my skills.<br><br>💻 Experienced in Flutter & Firebase<br>📱 Building cross-platform mobile apps<br>🚀 Passionate about UI/UX and animations<br>🌱 Currently exploring State Management & Performance Optimization<br>📌 Check out my projects and feel free to connect!<br><br>
 
 
 ## 🌐 Socials:
