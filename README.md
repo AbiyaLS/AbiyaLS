@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Abiya L. S., a Flutter MERN developer passionate about building responsive, high-performance, and SEO-optimized web and mobile applications. I love solving problems and continuously learning to improve my skills.<br><br>💻 Experienced in Flutter & Firebase<br>📱 Building cross-platform mobile apps<br>🚀 Passionate about UI/UX and animations<br>🌱 Currently exploring State Management & Performance Optimization<br>📌 Check out my projects and feel free to connect!<br><br>
+Hi there! 👋<br>I'm Abiya L. S.,I'm a Flutter & MERN Stack Developer passionate about building high-performance web and mobile applications. I enjoy solving complex problems and constantly learning new technologies to improve my skills.<br><br>💻 Experienced in: Flutter, Firebase, React, Node.js, Express, MongoDB<br>📱 Building: Cross-platform mobile apps & full-stack web applications<br>🎨 Focus on: UI/UX design, animations & performance optimization<br>🚀 Currently exploring: State management & backend authentication<br>📌 Check out my projects and feel free to connect!<br><br>
 
 
 ## 🌐 Socials:
